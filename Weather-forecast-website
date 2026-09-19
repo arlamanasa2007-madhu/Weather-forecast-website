@@ -1,0 +1,30 @@
+# 🌤️ Weather Forecast Website
+
+A real-time weather forecast website that allows users to search for weather information by entering a **city, town, village, mandal, district, state, or other location**.
+
+### 🌍 Features
+
+* 🔎 Search locations worldwide
+* 📍 Supports small villages, towns and mandals
+* 🌦️ Current weather conditions
+* 🌡️ Temperature
+* 💧 Humidity
+* 💨 Wind speed
+* 📅 5-day weather forecast
+* 🇮🇳 Special focus on Andhra Pradesh and Telangana locations
+* 📱 Responsive design
+
+### 🛠️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+
+### 🎯 Project Goal
+
+The goal of this project is to provide an easy-to-use weather forecast website that can find weather information for both **small local places and locations around the world**.
+
+### ⚠️ API Key
+
+For security, the OpenWeather API key should not be uploaded publicly to GitHub. Add your own API key in `script.js` when running the project locally.
